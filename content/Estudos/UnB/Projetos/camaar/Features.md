@@ -1,0 +1,4 @@
+- Avaliar turma
+- Importar alunos
+- Criar template de formulário
+- Visualizar resultados
