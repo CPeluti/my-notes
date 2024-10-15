@@ -1,0 +1,9 @@
+- [x] Colisões
+- [x] Vida
+- [x] Hitbox
+- [x] Hurtbox
+- [x] Animação
+- [ ] Armas
+- [ ] Efeitos
+- [ ] Projeteis
+- [ ] IA

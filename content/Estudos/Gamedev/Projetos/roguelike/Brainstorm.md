@@ -1,0 +1,12 @@
+- Rogue like
+- Top down
+- Mais tático
+- Coop
+- online
+- Medieval
+- Path of exile
+- gore?
+- Mecanica punitiva para PTs que se separarem
+- scouting
+- fog of war
+- plano final é 3d
