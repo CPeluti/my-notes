@@ -36,13 +36,12 @@ portanto, $\frac{a}{c}$
 $\square$
 #### Demonstração utilizando [[Símbolos Lógicos]]
 $$
-\frac{a}{b} \Rightarrow \exists m\in\mathbb{Z} tq b=m.a
-$$
-$$
-
+\begin{aligned}
+\frac{a}{b} \Rightarrow \exists m\in\mathbb{Z} tq b=m.a\\
 \frac{b}{c} \Rightarrow \exists n\in\mathbb{Z} tq c=n.b
+\end{aligned}
 $$
-thus
+Portanto
 $$
 c=a(m.n) \Rightarrow \frac{a}{c}
 $$
@@ -52,10 +51,10 @@ Sejam $a,b,c \in \mathbb{Z}$. Se $\frac{a}{b}$ e $\frac{a}{c}$, então $\frac{a}
 ### Demonstração
 temos que
 $$
-\frac{a}{b} \Rightarrow \exists m\in\mathbb{Z}\text{ tq }b=a.m
-$$
-$$
+\begin{aligned}
+\frac{a}{b} \Rightarrow \exists m\in\mathbb{Z}\text{ tq }b=a.m\\
 \frac{a}{c} \Rightarrow \exists n\in\mathbb{Z} \text{ tq } c=a.n
+\end{aligned}
 $$
 Agora
 $$
@@ -87,10 +86,12 @@ Mas $r*=r-b<r$ um absurdo, pois r é o menor elemento de $M+$. Portanto, r<b.
 #### (ii) Unicidade
 Vamos supor que 
 $$
-\text{(*) } a = bq +r$ e $a=bq*+r*$, com $0\leq r, r*< b
+a = bq +r\text{ e }a=bq*+r*,\text{ com }0\leq r, r*< b
+\tag{*}
 $$
+
 Sem perda de generalidade (SPG) vamos supor que $r*\geq r \Rightarrow r*-r \geq 0$
-Segue de (\*) que
+Segue de (*) que
 $b(q-q*) = r*-r \geq 0$
 
 (1) supor $r* = r \Rightarrow b(q-q*) = 0 \Rightarrow q-q* = 0 \Rightarrow q=q*$ pois $b\in\mathbb{N}$
