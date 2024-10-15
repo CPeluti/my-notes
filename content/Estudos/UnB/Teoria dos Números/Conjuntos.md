@@ -86,7 +86,9 @@ $$
 Mas $r*=r-b<r$ um absurdo, pois r é o menor elemento de $M+$. Portanto, r<b.
 #### (ii) Unicidade
 Vamos supor que 
-$$\text{(*) } a = bq +r$ e $a=bq*+r*$, com $0\leq r, r*< b$$
+$$
+\text{(*) } a = bq +r$ e $a=bq*+r*$, com $0\leq r, r*< b
+$$
 Sem perda de generalidade (SPG) vamos supor que $r*\geq r \Rightarrow r*-r \geq 0$
 Segue de (\*) que
 $b(q-q*) = r*-r \geq 0$
