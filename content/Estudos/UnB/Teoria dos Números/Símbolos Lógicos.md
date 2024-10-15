@@ -8,4 +8,5 @@ publish: true
 - $\exists$ : Existe
 - <=> : Equivale
 - $\nexists$ : Não existe
-- $\forall$:  Para todo
+- $\forall$ :  Para todo
+- $\subset$ : Contém

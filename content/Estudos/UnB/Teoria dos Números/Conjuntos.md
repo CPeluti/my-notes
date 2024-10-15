@@ -9,7 +9,7 @@ publish: true
 $\mathbb{N}=\{1,2,3,4,...\}$
 $\mathbb{Z}=\{-2,-1,0,1,2,...\}$
 $\mathbb{Q}=\{\frac{a}{b}/a,b \in \mathbb{Z}, b \neq 0\}$
- $\mathbb{N}  c= \mathbb{Z} c= \mathbb{Q}$
+ $\mathbb{N}  \subseteq \mathbb{Z} \subseteq \mathbb{Q}$
 
 ### Definição
 Sejam $a,b \in \mathbb{Z}$. Diremos que "a divide b" se existir $c \in \mathbb{z}$ tal que $b = a.c$
